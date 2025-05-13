@@ -1,0 +1,6974 @@
+{
+    "396": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3650.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3650.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3650.0
+        }
+    ],
+    "320": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2723.13
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -1112.19
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -234.63
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2900.12
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -1106.47
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -242.69
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2900.12
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2900.12
+        }
+    ],
+    "1": [
+        {
+            "descricao": "Aluguel",
+            "valor": -8628.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8628.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8628.74
+        }
+    ],
+    "2": [
+        {
+            "descricao": "Aluguel",
+            "valor": -6284.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6284.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6284.92
+        }
+    ],
+    "170": [
+        {
+            "descricao": "Aluguel",
+            "valor": -634.54
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -634.54
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 634.54
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 634.54
+        }
+    ],
+    "116": [
+        {
+            "descricao": "Aluguel",
+            "valor": -771.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 771.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 771.79
+        }
+    ],
+    "211": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1039.26
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1039.26
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1039.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1039.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1039.26
+        }
+    ],
+    "160": [
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -9.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -4300.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4300.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4300.0
+        }
+    ],
+    "684": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3000.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -59.8
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        }
+    ],
+    "158": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2717.5
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2717.5
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2717.5
+        }
+    ],
+    "741": [
+        {
+            "descricao": "Aluguel",
+            "valor": -339.47
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1923.67
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1697.36
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1697.36
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1697.36
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2036.83
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -437.94
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -437.94
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -389.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 11315.72
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 11315.72
+        }
+    ],
+    "543": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1923.67
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1222.37
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -437.94
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1325.59
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1325.59
+        }
+    ],
+    "5": [
+        {
+            "descricao": "Aluguel",
+            "valor": -789.94
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 789.94
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 789.94
+        }
+    ],
+    "9": [
+        {
+            "descricao": "Aluguel",
+            "valor": -750.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 750.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 750.0
+        }
+    ],
+    "638": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2300.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2300.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2300.0
+        }
+    ],
+    "517": [
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -100.16
+        },
+        {
+            "descricao": "Multa",
+            "valor": -10.05
+        },
+        {
+            "descricao": "Juros",
+            "valor": -4.72
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -12.48
+        },
+        {
+            "descricao": "Juros",
+            "valor": -2.91
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -309.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -131.98
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.02
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.04
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.26
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -424.42
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -250.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.31
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -993.8
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.21
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -379.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -370.25
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -381.66
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -395.59
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -14.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -126.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -130.52
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -446.82
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -3.16
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -129.77
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -8.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -9.48
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -128.33
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -451.18
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.08
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -100.16
+        },
+        {
+            "descricao": "Multa",
+            "valor": -10.05
+        },
+        {
+            "descricao": "Juros",
+            "valor": -4.72
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -12.48
+        },
+        {
+            "descricao": "Juros",
+            "valor": -2.91
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -309.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -131.98
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.02
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.04
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.26
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -424.42
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -250.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.31
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -993.8
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.21
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -379.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -370.25
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -381.66
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -395.59
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -14.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -126.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -130.52
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -446.82
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -3.16
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -129.77
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -8.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -9.48
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -128.33
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -451.18
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.08
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -100.16
+        },
+        {
+            "descricao": "Multa",
+            "valor": -10.05
+        },
+        {
+            "descricao": "Juros",
+            "valor": -4.72
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -12.48
+        },
+        {
+            "descricao": "Juros",
+            "valor": -2.91
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -309.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -131.98
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.02
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.04
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.26
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -424.42
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -250.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.31
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -993.8
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.21
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -379.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -370.25
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -381.66
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -395.59
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -14.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -126.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -130.52
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -446.82
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -3.16
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -129.77
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -8.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -9.48
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -128.33
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -451.18
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.08
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -100.16
+        },
+        {
+            "descricao": "Multa",
+            "valor": -10.05
+        },
+        {
+            "descricao": "Juros",
+            "valor": -4.72
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -12.48
+        },
+        {
+            "descricao": "Juros",
+            "valor": -2.91
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -309.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -131.98
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.02
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.04
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.26
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -424.42
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -250.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.31
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -993.8
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -15.21
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -379.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -370.25
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -381.66
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -395.59
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -14.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -126.18
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -130.52
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -446.82
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -3.16
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -129.77
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -8.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -9.48
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.44
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -133.17
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.32
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -128.33
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -451.18
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -16.49
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6.93
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -137.5
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -125.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "30": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3186.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3186.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3186.04
+        }
+    ],
+    "32": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2830.32
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2830.32
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2830.32
+        }
+    ],
+    "735": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2100.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        }
+    ],
+    "748": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "747": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1200.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1040.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1200.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        }
+    ],
+    "547": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1300.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -135.73
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -66.56
+        },
+        {
+            "descricao": "Juros",
+            "valor": -9.94
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.03
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -552.03
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -76.39
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -75.99
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -512.82
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.03
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -516.12
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -76.28
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -75.29
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -9057.01
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -1667.48
+        },
+        {
+            "descricao": "Estacionamento",
+            "valor": -409.5
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -304.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 9057.01
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 9057.01
+        }
+    ],
+    "548": [
+        {
+            "descricao": "Aluguel",
+            "valor": -5801.01
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5801.01
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5801.01
+        }
+    ],
+    "555": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1164.11
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1164.11
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1164.11
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1164.11
+        }
+    ],
+    "405": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4671.56
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -4671.56
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4671.56
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4671.56
+        }
+    ],
+    "549": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4542.35
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4542.35
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4542.35
+        }
+    ],
+    "553": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1257.1
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1257.1
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1257.1
+        }
+    ],
+    "552": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1359.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1359.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1359.28
+        }
+    ],
+    "561": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1245.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1245.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1245.75
+        }
+    ],
+    "393": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2400.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1100.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1491.51
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1491.51
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1491.51
+        }
+    ],
+    "302": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3494.83
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3494.83
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3494.83
+        }
+    ],
+    "300": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3780.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3780.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3780.0
+        }
+    ],
+    "299": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1143.18
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1143.18
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1143.18
+        }
+    ],
+    "56": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -4500.0
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -206.2
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4500.0
+        }
+    ],
+    "390": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2926.53
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2926.53
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2926.53
+        }
+    ],
+    "567": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3135.57
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3135.57
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3135.57
+        }
+    ],
+    "236": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1800.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1800.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        }
+    ],
+    "284": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1921.48
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1921.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1921.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1921.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1921.48
+        }
+    ],
+    "258": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2473.06
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2473.06
+        }
+    ],
+    "278": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1663.84
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1663.84
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1663.84
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1663.84
+        }
+    ],
+    "252": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1680.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1680.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1680.76
+        }
+    ],
+    "285": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2806.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2806.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2806.29
+        }
+    ],
+    "267": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3428.15
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3428.15
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3428.15
+        }
+    ],
+    "126": [
+        {
+            "descricao": "Aluguel",
+            "valor": -554.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 554.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 554.38
+        }
+    ],
+    "418": [
+        {
+            "descricao": "Aluguel",
+            "valor": -500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        }
+    ],
+    "136": [
+        {
+            "descricao": "Aluguel",
+            "valor": -797.61
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 797.61
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 797.61
+        }
+    ],
+    "128": [
+        {
+            "descricao": "Aluguel",
+            "valor": -821.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -521.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 521.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 521.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 521.3
+        }
+    ],
+    "133": [
+        {
+            "descricao": "Aluguel",
+            "valor": -856.43
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 856.43
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 856.43
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 856.43
+        }
+    ],
+    "140": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1349.52
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1349.52
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1349.52
+        }
+    ],
+    "637": [
+        {
+            "descricao": "Aluguel",
+            "valor": -674.78
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 674.78
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 674.78
+        }
+    ],
+    "58": [
+        {
+            "descricao": "Aluguel",
+            "valor": -85230.27
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 85230.27
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 85230.27
+        }
+    ],
+    "117": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1371.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1371.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1371.25
+        }
+    ],
+    "48": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3107.03
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3107.03
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3107.03
+        }
+    ],
+    "13": [
+        {
+            "descricao": "Aluguel",
+            "valor": -5281.88
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5281.88
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5281.88
+        }
+    ],
+    "40": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1567.25
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -600.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1567.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1567.25
+        }
+    ],
+    "12": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1278.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1278.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1278.28
+        }
+    ],
+    "467": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1506.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1506.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1506.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1506.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1506.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1506.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1506.0
+        }
+    ],
+    "240": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1241.31
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1346.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1346.13
+        }
+    ],
+    "179": [
+        {
+            "descricao": "Aluguel",
+            "valor": -8954.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8954.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8954.28
+        }
+    ],
+    "173": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4215.51
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4215.51
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4215.51
+        }
+    ],
+    "141": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1415.36
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1534.88
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1534.88
+        }
+    ],
+    "44": [
+        {
+            "descricao": "Aluguel",
+            "valor": -664.78
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 664.78
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 664.78
+        }
+    ],
+    "47": [
+        {
+            "descricao": "IPTU",
+            "valor": -80.05
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -802.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 802.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 802.04
+        }
+    ],
+    "514": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1791.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1791.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1791.79
+        }
+    ],
+    "144": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3179.64
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3179.64
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3179.64
+        }
+    ],
+    "540": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2589.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2589.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2589.75
+        }
+    ],
+    "538": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2322.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2322.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2322.76
+        }
+    ],
+    "412": [
+        {
+            "descricao": "Aluguel",
+            "valor": -739.06
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 739.06
+        }
+    ],
+    "733": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2200.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2200.0
+        }
+    ],
+    "257": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "184": [
+        {
+            "descricao": "IPTU",
+            "valor": -787.96
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "143": [
+        {
+            "descricao": "Aluguel",
+            "valor": -8000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8000.0
+        }
+    ],
+    "146": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3028.23
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3028.23
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3028.23
+        }
+    ],
+    "112": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        }
+    ],
+    "692": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1400.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1400.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1400.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1400.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        }
+    ],
+    "570": [
+        {
+            "descricao": "Aluguel",
+            "valor": -5196.28
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -5196.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5196.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5196.28
+        }
+    ],
+    "644": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1275.9
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1275.9
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1275.9
+        }
+    ],
+    "650": [
+        {
+            "descricao": "Aluguel",
+            "valor": -7600.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7600.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7600.0
+        }
+    ],
+    "219": [
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1186.11
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -450.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -165.87
+        },
+        {
+            "descricao": "Juros",
+            "valor": -69.55
+        },
+        {
+            "descricao": "Outros",
+            "valor": -34.92
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -688.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -450.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -169.85
+        },
+        {
+            "descricao": "Juros",
+            "valor": -38.3
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.1
+        },
+        {
+            "descricao": "Multa",
+            "valor": -105.16
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -48.23
+        },
+        {
+            "descricao": "Juros",
+            "valor": -16.61
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.14
+        },
+        {
+            "descricao": "Multa",
+            "valor": -105.16
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -48.23
+        },
+        {
+            "descricao": "Juros",
+            "valor": -16.61
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.14
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -137.36
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -3.56
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -2.23
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -450.0
+        },
+        {
+            "descricao": "Multa",
+            "valor": -178.44
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -86.89
+        },
+        {
+            "descricao": "Juros",
+            "valor": -6.53
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -84.27
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -39.19
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.09
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -57.09
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -57.09
+        },
+        {
+            "descricao": "Devolução da Caução",
+            "valor": -1000.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -546.1
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -546.1
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -549.38
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -543.76
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -538.08
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -440.88
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -415.46
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -5479.34
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -108.87
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.46
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -543.44
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -539.12
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -92.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -201.67
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -135.94
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -513.33
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -34.07
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -29.13
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -4.26
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -29.13
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -167.13
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -4879.91
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -2228.58
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -824.2
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -504.23
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -4.26
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -29.13
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -509.32
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -4.26
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -103.54
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -6759.37
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -1926.98
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -1459.88
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -29.13
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1450.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -92.49
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -4.26
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -1687.83
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -95.51
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -92.02
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -4.26
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -421.82
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -29.13
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -28.39
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -550.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -541.41
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -541.2
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -240.39
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1733.04
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -79.05
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -220.38
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -385.0
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -34.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "725": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1300.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -391.6
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2436.38
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2436.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2436.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2436.38
+        }
+    ],
+    "730": [
+        {
+            "descricao": "Aluguel",
+            "valor": -5500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5500.0
+        }
+    ],
+    "309": [
+        {
+            "descricao": "Aluguel",
+            "valor": -284.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 284.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 284.92
+        }
+    ],
+    "306": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2385.55
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2385.55
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2385.55
+        }
+    ],
+    "100": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1862.58
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1862.58
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1862.58
+        }
+    ],
+    "312": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2126.47
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2126.47
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2126.47
+        }
+    ],
+    "310": [
+        {
+            "descricao": "Aluguel",
+            "valor": -400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 400.0
+        }
+    ],
+    "307": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2253.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2600.0
+        }
+    ],
+    "742": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3700.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3700.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3700.0
+        }
+    ],
+    "736": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3250.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3250.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "714": [
+        {
+            "descricao": "Condomínio",
+            "valor": -468.49
+        },
+        {
+            "descricao": "Multa",
+            "valor": -185.42
+        },
+        {
+            "descricao": "Juros",
+            "valor": -52.88
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -83.42
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -85.92
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -86.75
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -86.34
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -86.34
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -85.5
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.42
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -83.84
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -495.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -86.75
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -85.09
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -85.92
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -84.26
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1600.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -460.83
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -84.69
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1700.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -425.41
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -87.18
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1700.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1700.0
+        }
+    ],
+    "653": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "432": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1107.96
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1107.96
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1107.96
+        }
+    ],
+    "596": [
+        {
+            "descricao": "Aluguel",
+            "valor": -900.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -900.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 900.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 900.0
+        }
+    ],
+    "199": [
+        {
+            "descricao": "Aluguel",
+            "valor": -522.6
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -522.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 522.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 522.6
+        }
+    ],
+    "150": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1126.61
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1520.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1520.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1520.07
+        }
+    ],
+    "75": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3750.65
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3750.65
+        }
+    ],
+    "66": [
+        {
+            "descricao": "Água e esgoto",
+            "valor": -291.65
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3600.0
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -350.75
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -354.03
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -342.37
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -259.48
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2852.21
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -260.82
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -339.6
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -772.82
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -3600.0
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -415.03
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -211.15
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -214.66
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -115.65
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -235.64
+        },
+        {
+            "descricao": "Água e esgoto",
+            "valor": -336.91
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2977.76
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -227.65
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2977.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2977.76
+        }
+    ],
+    "73": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3971.73
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3971.73
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3971.73
+        }
+    ],
+    "74": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2941.66
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -2941.66
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2941.66
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2941.66
+        }
+    ],
+    "72": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3492.69
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3492.69
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3492.69
+        }
+    ],
+    "77": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3987.19
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3987.19
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3987.19
+        }
+    ],
+    "60": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3165.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3165.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3165.48
+        }
+    ],
+    "61": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2811.52
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2811.52
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2811.52
+        }
+    ],
+    "70": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3281.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3281.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3281.33
+        }
+    ],
+    "71": [
+        {
+            "descricao": "Aluguel",
+            "valor": -13000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 13000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 13000.0
+        }
+    ],
+    "67": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3959.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3959.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3959.25
+        }
+    ],
+    "69": [
+        {
+            "descricao": "Aluguel",
+            "valor": -5000.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -5000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5000.0
+        }
+    ],
+    "62": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4180.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4180.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4180.76
+        }
+    ],
+    "490": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2769.94
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2769.94
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2769.94
+        }
+    ],
+    "491": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3800.0
+        }
+    ],
+    "626": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2800.0
+        }
+    ],
+    "572": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4400.0
+        }
+    ],
+    "35": [
+        {
+            "descricao": "Aluguel",
+            "valor": -21350.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 21350.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 21350.92
+        }
+    ],
+    "375": [
+        {
+            "descricao": "Aluguel",
+            "valor": -958.83
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -958.83
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -958.83
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 958.83
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 958.83
+        }
+    ],
+    "369": [
+        {
+            "descricao": "Condomínio",
+            "valor": -204.53
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -204.53
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -144.7
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -204.53
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -178.13
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -144.7
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -967.71
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -204.53
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -887.82
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -940.67
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -144.7
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -940.67
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -144.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 940.67
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 940.67
+        }
+    ],
+    "367": [
+        {
+            "descricao": "Aluguel",
+            "valor": -935.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 935.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 935.33
+        }
+    ],
+    "370": [
+        {
+            "descricao": "Aluguel",
+            "valor": -888.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 888.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 888.41
+        }
+    ],
+    "383": [
+        {
+            "descricao": "Aluguel",
+            "valor": -693.35
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 693.35
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 693.35
+        }
+    ],
+    "377": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1878.1
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1878.1
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1878.1
+        }
+    ],
+    "129": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1162.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1162.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1162.63
+        }
+    ],
+    "630": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2076.25
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.02
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2076.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2076.25
+        }
+    ],
+    "619": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1558.88
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1558.88
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1558.88
+        }
+    ],
+    "695": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2099.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2099.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2099.79
+        }
+    ],
+    "711": [
+        {
+            "descricao": "Aluguel",
+            "valor": -5462.13
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -5462.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5462.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5462.13
+        }
+    ],
+    "709": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4261.45
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4261.45
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4261.45
+        }
+    ],
+    "524": [
+        {
+            "descricao": "Aluguel",
+            "valor": -533.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        }
+    ],
+    "705": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2194.5
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2194.5
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2194.5
+        }
+    ],
+    "697": [
+        {
+            "descricao": "Aluguel",
+            "valor": -380.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 380.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 380.29
+        }
+    ],
+    "694": [
+        {
+            "descricao": "Condomínio",
+            "valor": -80.0
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -340.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -80.0
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -80.0
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -80.0
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -80.0
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -80.0
+        },
+        {
+            "descricao": "Água",
+            "valor": -50.67
+        },
+        {
+            "descricao": "Energia elétrica",
+            "valor": -5.01
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -473.02
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 473.02
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 473.02
+        }
+    ],
+    "707": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4000.0
+        }
+    ],
+    "410": [
+        {
+            "descricao": "Aluguel",
+            "valor": -584.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 584.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 584.74
+        }
+    ],
+    "656": [
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -198.8
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Multa",
+            "valor": -59.26
+        },
+        {
+            "descricao": "Juros",
+            "valor": -1.8
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -650.0
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.06
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -121.0
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -226.05
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -391.91
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 650.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 650.0
+        }
+    ],
+    "404": [
+        {
+            "descricao": "Aluguel",
+            "valor": -429.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 429.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 429.3
+        }
+    ],
+    "429": [
+        {
+            "descricao": "Aluguel",
+            "valor": -7761.73
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7761.73
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7761.73
+        }
+    ],
+    "411": [
+        {
+            "descricao": "Aluguel",
+            "valor": -450.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 450.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 450.0
+        }
+    ],
+    "403": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2859.8
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2859.8
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2859.8
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2859.8
+        }
+    ],
+    "713": [
+        {
+            "descricao": "Aluguel",
+            "valor": -700.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 700.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 700.0
+        }
+    ],
+    "536": [
+        {
+            "descricao": "Multa",
+            "valor": -314.78
+        },
+        {
+            "descricao": "Juros",
+            "valor": -53.68
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.92
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.34
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2941.66
+        }
+    ],
+    "21": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3646.46
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3646.46
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3646.46
+        }
+    ],
+    "633": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3649.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3649.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3649.08
+        }
+    ],
+    "397": [
+        {
+            "descricao": "Aluguel",
+            "valor": -7706.21
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7706.21
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7706.21
+        }
+    ],
+    "542": [
+        {
+            "descricao": "Aluguel",
+            "valor": -692.49
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 692.49
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 692.49
+        }
+    ],
+    "65": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2449.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2449.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2449.74
+        }
+    ],
+    "721": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1083.87
+        },
+        {
+            "descricao": "Taxa bancária - DOC-TED-PIX",
+            "valor": -1.77
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        }
+    ],
+    "96": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1881.34
+        },
+        {
+            "descricao": "IPTU",
+            "valor": -81.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1881.34
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1881.34
+        }
+    ],
+    "202": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1261.13
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1261.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1261.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1261.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1261.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1261.13
+        }
+    ],
+    "576": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1009.41
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1009.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1009.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1009.41
+        }
+    ],
+    "205": [
+        {
+            "descricao": "Aluguel",
+            "valor": -527.9
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -527.9
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 527.9
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 527.9
+        }
+    ],
+    "220": [
+        {
+            "descricao": "Aluguel",
+            "valor": -585.95
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -585.95
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 585.95
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 585.95
+        }
+    ],
+    "189": [
+        {
+            "descricao": "Aluguel",
+            "valor": -922.24
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 922.24
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 922.24
+        }
+    ],
+    "574": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1250.0
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1250.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1250.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1250.0
+        }
+    ],
+    "201": [
+        {
+            "descricao": "Aluguel",
+            "valor": -503.01
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 503.01
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 503.01
+        }
+    ],
+    "200": [
+        {
+            "descricao": "Aluguel",
+            "valor": -531.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 531.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 531.63
+        }
+    ],
+    "203": [
+        {
+            "descricao": "Aluguel",
+            "valor": -512.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 512.25
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 512.25
+        }
+    ],
+    "586": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4794.7
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -4794.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4794.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4794.7
+        }
+    ],
+    "582": [
+        {
+            "descricao": "Aluguel",
+            "valor": -23357.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 23357.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 23357.79
+        }
+    ],
+    "559": [
+        {
+            "descricao": "Aluguel",
+            "valor": -26192.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 26192.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 26192.6
+        }
+    ],
+    "165": [
+        {
+            "descricao": "Aluguel",
+            "valor": -12112.93
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 12112.93
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 12112.93
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 12112.93
+        }
+    ],
+    "584": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4567.75
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -4567.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4567.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4567.75
+        }
+    ],
+    "223": [
+        {
+            "descricao": "Aluguel",
+            "valor": -584.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 584.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 584.79
+        }
+    ],
+    "239": [
+        {
+            "descricao": "Aluguel",
+            "valor": -66690.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 66690.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 66690.29
+        }
+    ],
+    "215": [
+        {
+            "descricao": "Aluguel",
+            "valor": -558.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 558.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 558.3
+        }
+    ],
+    "243": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2698.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2698.74
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2698.74
+        }
+    ],
+    "191": [
+        {
+            "descricao": "Aluguel",
+            "valor": -34601.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 34601.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 34601.33
+        }
+    ],
+    "216": [
+        {
+            "descricao": "Aluguel",
+            "valor": -517.81
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 517.81
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 517.81
+        }
+    ],
+    "246": [
+        {
+            "descricao": "Aluguel",
+            "valor": -542.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.29
+        }
+    ],
+    "232": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1598.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1598.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1598.04
+        }
+    ],
+    "229": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1362.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1362.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1362.7
+        }
+    ],
+    "546": [
+        {
+            "descricao": "Aluguel",
+            "valor": -27289.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 27289.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 27289.76
+        }
+    ],
+    "242": [
+        {
+            "descricao": "Aluguel",
+            "valor": -8500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8500.0
+        }
+    ],
+    "233": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1850.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1850.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1850.0
+        }
+    ],
+    "581": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4600.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4600.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4600.0
+        }
+    ],
+    "212": [
+        {
+            "descricao": "Aluguel",
+            "valor": -25000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 25000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 25000.0
+        }
+    ],
+    "593": [
+        {
+            "descricao": "Aluguel",
+            "valor": -11756.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 11756.75
+        }
+    ],
+    "214": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2978.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2978.79
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2978.79
+        }
+    ],
+    "699": [
+        {
+            "descricao": "Aluguel",
+            "valor": -582.95
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 582.95
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 582.95
+        }
+    ],
+    "702": [
+        {
+            "descricao": "Aluguel",
+            "valor": -536.36
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 536.36
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 536.36
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 536.36
+        }
+    ],
+    "696": [
+        {
+            "descricao": "Aluguel",
+            "valor": -448.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 448.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 448.38
+        }
+    ],
+    "706": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2490.99
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2490.99
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2490.99
+        }
+    ],
+    "698": [
+        {
+            "descricao": "Aluguel",
+            "valor": -510.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 510.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 510.28
+        }
+    ],
+    "700": [
+        {
+            "descricao": "Aluguel",
+            "valor": -579.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 579.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 579.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 579.26
+        }
+    ],
+    "420": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2682.44
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2682.44
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2682.44
+        }
+    ],
+    "282": [
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.61
+        },
+        {
+            "descricao": "Multa",
+            "valor": -355.13
+        },
+        {
+            "descricao": "Juros",
+            "valor": -95.04
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -1807.53
+        },
+        {
+            "descricao": "Multa",
+            "valor": -187.49
+        },
+        {
+            "descricao": "Juros",
+            "valor": -42.29
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1807.53
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1807.53
+        }
+    ],
+    "280": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3494.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3494.04
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3494.04
+        }
+    ],
+    "253": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2234.86
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2234.86
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2234.86
+        }
+    ],
+    "271": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2111.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2111.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2111.6
+        }
+    ],
+    "274": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3202.47
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3202.47
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3202.47
+        }
+    ],
+    "484": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2977.1
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2977.1
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2977.1
+        }
+    ],
+    "478": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2668.73
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2668.73
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2668.73
+        }
+    ],
+    "480": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2594.77
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2594.77
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2594.77
+        }
+    ],
+    "482": [
+        {
+            "descricao": "Aluguel",
+            "valor": -2919.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2919.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2919.26
+        }
+    ],
+    "49": [
+        {
+            "descricao": "Aluguel",
+            "valor": -8280.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8979.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 8979.28
+        }
+    ],
+    "23": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1550.98
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -0.16
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -951.23
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1551.14
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1551.14
+        }
+    ],
+    "563": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1411.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1407.5
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1407.5
+        }
+    ],
+    "427": [
+        {
+            "descricao": "Aluguel",
+            "valor": -503.69
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 503.69
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 503.69
+        }
+    ],
+    "406": [
+        {
+            "descricao": "Aluguel",
+            "valor": -604.21
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 604.21
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 604.21
+        }
+    ],
+    "407": [
+        {
+            "descricao": "Aluguel",
+            "valor": -499.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 499.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 499.7
+        }
+    ],
+    "402": [
+        {
+            "descricao": "Aluguel",
+            "valor": -6800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6800.0
+        }
+    ],
+    "642": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1372.54
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1372.54
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1372.54
+        }
+    ],
+    "50": [
+        {
+            "descricao": "Aluguel",
+            "valor": -605.65
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -424.07
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -605.65
+        },
+        {
+            "descricao": "Condomínio",
+            "valor": -424.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 605.65
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 605.65
+        }
+    ],
+    "8": [
+        {
+            "descricao": "Aluguel",
+            "valor": -15245.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 15245.92
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 15245.92
+        }
+    ],
+    "7": [
+        {
+            "descricao": "Aluguel",
+            "valor": -50913.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 50913.3
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 50913.3
+        }
+    ],
+    "489": [
+        {
+            "descricao": "Aluguel",
+            "valor": -6255.56
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6255.56
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6255.56
+        }
+    ],
+    "162": [
+        {
+            "descricao": "Aluguel",
+            "valor": -7000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7000.0
+        }
+    ],
+    "532": [
+        {
+            "descricao": "Aluguel",
+            "valor": -13036.45
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -0.12
+        },
+        {
+            "descricao": "Aluguel",
+            "valor": -7309.8
+        },
+        {
+            "descricao": "Pagamento indevido",
+            "valor": -18602.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7309.8
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 7309.8
+        }
+    ],
+    "161": [
+        {
+            "descricao": "Aluguel",
+            "valor": -37230.66
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 37230.66
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 37230.66
+        }
+    ],
+    "595": [
+        {
+            "descricao": "Aluguel",
+            "valor": -4253.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4253.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4253.0
+        }
+    ],
+    "283": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3484.14
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3484.14
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3484.14
+        }
+    ],
+    "108": [
+        {
+            "descricao": "Aluguel",
+            "valor": -3583.58
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3583.58
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3583.58
+        }
+    ],
+    "105": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1952.24
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1952.24
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1952.24
+        }
+    ],
+    "103": [
+        {
+            "descricao": "Aluguel",
+            "valor": -1583.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1583.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1583.7
+        }
+    ],
+    "492": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2953.08
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2953.08
+        }
+    ],
+    "449": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1526.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1526.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1526.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1526.63
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1526.63
+        }
+    ],
+    "269": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        }
+    ],
+    "451": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1654.71
+        }
+    ],
+    "288": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 896.9
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 896.9
+        }
+    ],
+    "641": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1573.1
+        }
+    ],
+    "516": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 527.9
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 527.9
+        }
+    ],
+    "456": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "522": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "675": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        }
+    ],
+    "264": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2663.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2663.41
+        }
+    ],
+    "646": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1067.49
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1067.49
+        }
+    ],
+    "677": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        }
+    ],
+    "717": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        }
+    ],
+    "447": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1237.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1237.07
+        }
+    ],
+    "450": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1804.72
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1804.72
+        }
+    ],
+    "445": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3975.2
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3975.2
+        }
+    ],
+    "446": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1517.09
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1517.09
+        }
+    ],
+    "448": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1606.07
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1606.07
+        }
+    ],
+    "452": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1582.37
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1582.37
+        }
+    ],
+    "453": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1697.68
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1697.68
+        }
+    ],
+    "457": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 549.02
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 549.02
+        }
+    ],
+    "523": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 504.71
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 504.71
+        }
+    ],
+    "461": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 522.06
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 522.06
+        }
+    ],
+    "472": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1787.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1787.28
+        }
+    ],
+    "459": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.22
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.22
+        }
+    ],
+    "525": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        }
+    ],
+    "521": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 519.06
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 519.06
+        }
+    ],
+    "520": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 532.68
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 532.68
+        }
+    ],
+    "458": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        }
+    ],
+    "470": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "690": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "518": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "455": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "622": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "465": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "554": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1164.11
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1164.11
+        }
+    ],
+    "550": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4671.56
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4671.56
+        }
+    ],
+    "560": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        }
+    ],
+    "710": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5462.13
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5462.13
+        }
+    ],
+    "708": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5422.23
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5422.23
+        }
+    ],
+    "703": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        }
+    ],
+    "731": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2111.85
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2111.85
+        }
+    ],
+    "729": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1384.99
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1384.99
+        }
+    ],
+    "392": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4880.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4880.0
+        }
+    ],
+    "391": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2521.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2521.38
+        }
+    ],
+    "301": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1192.89
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1192.89
+        }
+    ],
+    "726": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2436.38
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2436.38
+        }
+    ],
+    "26": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "266": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        }
+    ],
+    "281": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1921.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1921.48
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1921.48
+        }
+    ],
+    "701": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 368.76
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 368.76
+        }
+    ],
+    "145": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1800.0
+        }
+    ],
+    "379": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3331.06
+        }
+    ],
+    "374": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 958.83
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 958.83
+        }
+    ],
+    "372": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1049.43
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1049.43
+        }
+    ],
+    "368": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 940.67
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 940.67
+        }
+    ],
+    "365": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 958.83
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 958.83
+        }
+    ],
+    "620": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1039.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1039.26
+        }
+    ],
+    "422": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 500.0
+        }
+    ],
+    "483": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2926.53
+        }
+    ],
+    "254": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        }
+    ],
+    "130": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.22
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.22
+        }
+    ],
+    "131": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.22
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 542.22
+        }
+    ],
+    "138": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 890.46
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 890.46
+        }
+    ],
+    "167": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 634.54
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 634.54
+        }
+    ],
+    "64": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3093.06
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3093.06
+        }
+    ],
+    "157": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        }
+    ],
+    "154": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1084.45
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1084.45
+        }
+    ],
+    "156": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1084.45
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1084.45
+        }
+    ],
+    "399": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1478.12
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1478.12
+        }
+    ],
+    "115": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1039.26
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1039.26
+        }
+    ],
+    "628": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1900.0
+        }
+    ],
+    "659": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "657": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "716": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        }
+    ],
+    "691": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1200.0
+        }
+    ],
+    "683": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "678": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "682": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "153": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1221.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1221.75
+        }
+    ],
+    "568": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 522.6
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 522.6
+        }
+    ],
+    "57": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        }
+    ],
+    "597": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5196.28
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 5196.28
+        }
+    ],
+    "545": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "727": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 596.44
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 596.44
+        }
+    ],
+    "685": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        }
+    ],
+    "660": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "681": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        }
+    ],
+    "687": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "668": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "680": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "679": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "655": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1400.0
+        }
+    ],
+    "689": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "688": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "652": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1500.0
+        }
+    ],
+    "99": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2277.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2277.33
+        }
+    ],
+    "119": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2331.11
+        }
+    ],
+    "208": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2200.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2200.0
+        }
+    ],
+    "712": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        }
+    ],
+    "519": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 532.68
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 532.68
+        }
+    ],
+    "63": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 750.61
+        }
+    ],
+    "428": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6250.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        }
+    ],
+    "464": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "106": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1698.19
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1698.19
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1698.19
+        }
+    ],
+    "720": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3202.47
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3202.47
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3202.47
+        }
+    ],
+    "724": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3524.45
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3524.45
+        }
+    ],
+    "723": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3524.45
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3524.45
+        }
+    ],
+    "104": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1583.7
+        }
+    ],
+    "744": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "743": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "722": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        }
+    ],
+    "580": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 744.28
+        }
+    ],
+    "207": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 676.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 676.33
+        }
+    ],
+    "575": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1009.41
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1009.41
+        }
+    ],
+    "618": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        }
+    ],
+    "686": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 6000.0
+        }
+    ],
+    "585": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4794.7
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4794.7
+        }
+    ],
+    "573": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1250.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1250.0
+        }
+    ],
+    "583": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4567.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4567.75
+        }
+    ],
+    "588": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        }
+    ],
+    "565": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2200.0
+        }
+    ],
+    "249": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "238": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1626.67
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1626.67
+        }
+    ],
+    "632": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 12542.29
+        }
+    ],
+    "245": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 552.33
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 552.33
+        }
+    ],
+    "163": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 14137.31
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 14137.31
+        }
+    ],
+    "198": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "204": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "206": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 546.81
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 546.81
+        }
+    ],
+    "209": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "234": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1523.34
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1523.34
+        }
+    ],
+    "237": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1850.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1850.0
+        }
+    ],
+    "221": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "222": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "250": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "155": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3000.0
+        }
+    ],
+    "603": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        }
+    ],
+    "610": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 4803.71
+        }
+    ],
+    "611": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3795.56
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3795.56
+        }
+    ],
+    "631": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2725.41
+        }
+    ],
+    "607": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3500.0
+        }
+    ],
+    "592": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 14944.87
+        }
+    ],
+    "431": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 900.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 900.0
+        }
+    ],
+    "649": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2711.11
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2711.11
+        }
+    ],
+    "606": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2500.0
+        }
+    ],
+    "256": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2711.11
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2711.11
+        }
+    ],
+    "594": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1067.49
+        }
+    ],
+    "558": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 19291.0
+        }
+    ],
+    "454": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 533.75
+        }
+    ],
+    "460": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "68": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3904.0
+        },
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3904.0
+        }
+    ],
+    "466": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "462": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "648": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1000.0
+        }
+    ],
+    "651": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 1680.92
+        }
+    ],
+    "609": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 3795.56
+        }
+    ],
+    "719": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 2000.0
+        }
+    ],
+    "251": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ],
+    "224": [
+        {
+            "descricao": "Aluguel contrato (repasse)",
+            "valor": 550.0
+        }
+    ]
+}
